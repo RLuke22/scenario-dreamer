@@ -1,4 +1,4 @@
-# Scenario Dreamer (CVPR 2025)
+# Scenario Dreamer
 
 Code will be released by CVPR 2025.
 
