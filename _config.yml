@@ -1,0 +1,6 @@
+description: A joint motion prediction framework that performs factorized trajectory decoding over a learned interaction DAG.<br><a href="https://www.linkedin.com/in/rluke22/">Luke Rowe</a>, <a href="https://www.linkedin.com/in/ethiermartin/">Martin Ethier</a>, <a href="https://www.linkedin.com/in/henry-dykhne-ai">Eli-Henry Dykhne</a>, <a href="https://uwaterloo.ca/electrical-computer-engineering/profile/k2czarne">Krzysztof Czarnecki</a><br><a href="https://uwaterloo.ca/waterloo-intelligent-systems-engineering-lab/">WISE Lab, University of Waterloo</a><br>CVPR 2023
+theme: jekyll-theme-cayman
+links:
+  arxiv: https://arxiv.org/abs/2211.16197
+  code: https://github.com/RLuke22/FJMP
+  video: https://www.youtube.com/watch?v=asmCOhPQuNw&ab_channel=RLuke22
